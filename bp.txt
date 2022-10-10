@@ -1,0 +1,4 @@
+version1
+Setting1
+Setting2
+Setting3
