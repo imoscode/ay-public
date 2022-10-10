@@ -1,4 +1,4 @@
 version1
-Setting1
-Setting2
-Setting3
+bp1
+bp2
+bp3
