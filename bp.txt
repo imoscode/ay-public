@@ -1,4 +1,4 @@
-version1
+1.0
 bp1
 bp2
 bp3
